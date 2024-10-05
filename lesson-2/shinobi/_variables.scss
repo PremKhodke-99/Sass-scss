@@ -1,8 +1,10 @@
+// !default is used use default color we dont give any other color to that variable in sass/index.scss
+
 // variables , theme colors
-$primary: #326dee;
-$secondary: #1ac888;
-$error: #d32752;
-$info: #f6c31c;
+$primary: #326dee !default;
+$secondary: #1ac888 !default;
+$error: #d32752 !default;
+$info: #f6c31c !default;
 
 // color palette
 $colors: (
